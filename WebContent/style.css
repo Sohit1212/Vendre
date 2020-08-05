@@ -1,0 +1,50 @@
+#head1{
+    background-color: gray;
+}
+.navbar-nav {
+    font-size: 22px;
+    text-shadow: 2px 2px 2px black;
+    font-family: cursive;
+}
+.navbar-brand{
+    font-size: 30px;
+    text-shadow: 3px 3px 3px black;
+    font-family: cursive;
+}
+.myhead1{
+    font-size: 46px;
+    color: #333333;
+    text-shadow: 2px 2px 2px black;
+    border-bottom: #333333 solid 2px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.stout {
+    font-size: 1.5em;
+    font-weight: 500;
+}
+body { 
+    font-size: 18px; 
+    text-align: justify;
+}
+.mybg {
+    height: 400px; 
+    background-color: black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.mybg2 {
+    height: 400px; 
+}
+
+.mycard{
+	box-shadow: 3px 3px 3px #000000; 
+	transition: 1s;
+}
+.mycard img{
+	border-bottom: 1px solid #666666; 
+}
+.mycard:hover{
+  transform: rotate3d(1, 1, 0, 30deg);
+}
+
